@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm ZDAY-X</h1>
 <h3 align="center">Full Stack Developer and Reverse Engineer</h3>
 
-- 🔭 I’m currently working on **G-HECK [Automate Gmail Account Creation]**
-
 - 🌱 I’m currently learning **Dart , Advanced Go And Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zday-X?tab=repositories](https://github.com/Zday-X?tab=repositories)

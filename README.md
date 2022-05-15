@@ -12,6 +12,10 @@ Fight For Your Privacy!
 
 ![gitvid](https://user-images.githubusercontent.com/83881453/150105749-40f97b4a-ce53-4c93-b065-c862f6afaefb.gif)
 
+Lets fight together!
+
+![decept](https://user-images.githubusercontent.com/83881453/168470353-48e39142-4bb1-4a00-9e2e-18e64d032b86.png)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
